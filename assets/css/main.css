@@ -1,0 +1,28 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+.container {
+    width: 1000px;
+    margin: auto;
+}
+
+.menu {
+    margin-top: 30px;
+    display: flex;
+    justify-content: space-between;
+}
+
+.menu a, .menu a:hover {
+    text-decoration: none;
+    color: black;
+}
+
+.menu a {
+    font-size: 18px;
+}
+
+.menu-points a {
+    margin-right: 15px;
+}
