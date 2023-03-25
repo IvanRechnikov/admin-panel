@@ -1,0 +1,11 @@
+.add-product {
+    margin-top: 25px;
+    display: flex;
+    flex-direction: column;
+    width: 700px;
+    align-items: center;
+}
+
+label {
+    margin-top: 20px;
+}
