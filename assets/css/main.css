@@ -26,3 +26,12 @@ body {
 .menu-points a {
     margin-right: 15px;
 }
+
+.pages {
+    display: flex;
+    flex-direction: column;
+}
+
+.page {
+    margin-top: 8px;
+}
